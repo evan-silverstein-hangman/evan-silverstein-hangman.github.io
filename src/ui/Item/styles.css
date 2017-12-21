@@ -1,0 +1,17 @@
+.itemContainer{
+    display: flex;
+    align-content: center;
+    vertical-align: middle;
+    font-size: 1.4rem;
+}
+.col1{
+    margin-right: 10px;
+    /* width: 120px; */
+    /* float: left; */
+    /* font-size: 1.2rem; */
+}
+
+.col2 {
+    /* font-size: 1.2rem; */
+    /* overflow:auto; */
+}

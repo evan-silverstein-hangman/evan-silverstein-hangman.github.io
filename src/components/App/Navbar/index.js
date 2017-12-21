@@ -5,6 +5,7 @@ import Link from 'react-toolbox/lib/Link'
 
 
 const Navbar = () => (
+  
   <AppBar title='Hangman'>
     <Navigation type='horizontal'>
       <Link href='/' active label='Play' />
